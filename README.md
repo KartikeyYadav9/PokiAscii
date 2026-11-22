@@ -3,7 +3,11 @@ A 1980s primitive CLI pokedex.
 
 through PokiAscii, you can not only get the names of pokemon but their ascii form and pokedex number!
 
-how to use? 1.click - https://github.com/KartikeyYadav9/HACKscroll/releases/download/v1.0.0/HACKscroll.exe 2.run the exe 3.and boom!!!
+how to use?
+
+1.https://github.com/KartikeyYadav9/PokiAscii/releases/download/v1.beta/pokiascii.zip
+2.run the exe
+3.and boom!!!
 
 Note- No sound, so headphones arent required
 
